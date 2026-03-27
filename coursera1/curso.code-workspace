@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"name": "curso",
+			"path": "../../../../html5/curso"
+		},
+		{
+			"name": "ejercicios python",
+			"path": "../../../../1 cuatrimestre/7 fundamentos programacion python/ejercicios python"
+		},
+		{
+			"name": "JavaScrip",
+			"path": ".."
+		},
+		{
+			"path": "../../../../3 cuatrimestre/7. programacion enfocada a objetos/en clase"
+		}
+	]
+}
